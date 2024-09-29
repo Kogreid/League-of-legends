@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Container{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    background-color: purple;
+   flex-wrap: wrap;
+   border: 5px solid green;
+   justify-content: center;
+}
+.john{
+    background-color: grey;
+    color: aliceblue;
+    width: 350px;
+    height: 200px;
+}
+.martin{
+    background-color: aqua;
+    color: bisque;
+    height: 300px;
+    width: 260px;
+}
+.smith{
+    background-color: red;
+    color: yellow;
+    height: 250px;
+    width: 260px;
+}
