@@ -11,6 +11,7 @@
    flex-wrap: wrap;
    border: 5px solid green;
    justify-content: center;
+    width: 1100px;
 }
 .john{
     background-color: grey;
